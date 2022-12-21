@@ -1,0 +1,39 @@
+body{
+    background-color:#26262e ;
+  background-image: url(/img.////1.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: aliceblue  ;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.cycle{
+    background-color:#4040417e;
+    border-radius:25px;
+    border: 2px solid white;
+    height: 50px;
+    -webkit-border-radius:25px;
+    -moz-border-radius:25px;
+    -ms-border-radius:25px;
+    -o-border-radius:25px;
+}
+.map{
+    border: 2px solid white;
+    height: 250px;
+    width: 250px;
+}
+h3{
+    color: #009ad8;
+}
+.form-control{
+    background-color: transparent;
+}
+
